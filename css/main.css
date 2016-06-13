@@ -206,7 +206,6 @@ h5, h6          { font-weight: bolder }
         background-position: 0 0;
     }
 
-
     header ul.social li a.google,
     header ul.social li a.google:hover{
         background-position: -31px 0;
@@ -231,6 +230,12 @@ h5, h6          { font-weight: bolder }
     header ul.social li a.rss:hover{
         background-position: -155px 0;
     }
+
+    header ul.social li a.rss,
+    header ul.social li a.rss:hover{
+        background-position: -186px 0;
+    }
+
 
     header .rights p{
         color: #454545;
